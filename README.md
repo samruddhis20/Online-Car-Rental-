@@ -16,9 +16,6 @@ This is a project for a car rental website. It is a project for the College Mini
 - [User Story](#user-story)
 - [Admin Page](#admin-page)
 - [Project Report](#project-report)
-- [License](#license)
-- [Demo](#demo)
-- [Authors](#authors)
 - [Show your support](#show-your-support)
 
 
@@ -112,21 +109,6 @@ This is a project for a car rental website. It is a project for the College Mini
     - References
 - The project report is written in Microsoft Word.
 - The project repot has flow chart, ERD, and UML diagram.
-
-##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Demo
-
-- [Live Deployment](https://carsminiproject.000webhostapp.com/)
-- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
-
-## Authors 
-
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
 
 ## Show your support
 
